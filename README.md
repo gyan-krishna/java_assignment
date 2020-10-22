@@ -1,6 +1,6 @@
 #Java assignment programs for uni 
 
-#Program Descreptions:-
+Program Descreptions:-
 
 > halfSort.java     - Input an array from the user, softs the left half in accensing order and right in decending order
 
