@@ -20,10 +20,16 @@
 
 > testPerson.java   - demo of inheritance (test class)
 -------------------------------------------------------------------------------------------------------------------------
-
 ### Inheritance example 2:-
-> Square.java - Example Sub class
+> Square.java       - Example Sub class
 
-> Cylinder.java - Example super class
+> Cylinder.java     - Example super class
 
 > TestCylinder.java - Class to test the Inheritance
+-------------------------------------------------------------------------------------------------------------------------
+### Inheritance example 3:-
+> Engine.java           - Super Class
+
+> PrattWhitneyJ58.java  - Sub class
+
+> EngineTest.java       - Class to test the inheritance
