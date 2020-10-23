@@ -10,11 +10,14 @@
 3. **Stack.java**        - Implementation of stack in java
 4. **Queue.java**        - Implementation of Queue in java
 5. **ArrayOP.java**      - Performing some basic array operations.
+6. **ConsLength.java**   - length of the longest consecutive integers sequence
 -------------------------------------------------------------------------------------------------------------------------
 ### OOP Example:-
 1. **MyPoint.java**      - Demonstratin of OOP
 2. **TestMyPoint.java**  - Testing MyPoint class
 3. **Time.java**         - Implementation of custom Data types with class
+4. **Box.java**          - Demonstration of Constructions
+5. **Complex.java**      - Operation on complex numbers
 -------------------------------------------------------------------------------------------------------------------------
 ### Inheritance example 1:-
 1. **Person.java**       - demo of inheritance (super class)
