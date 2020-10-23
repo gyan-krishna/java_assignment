@@ -8,7 +8,7 @@
 
 > matMin.java       - Input a matrix and display the min of rows and column
 -------------------------------------------------------------------------------------------------------------------------
-### Object Oriented Programs:-
+### OOP Example:-
 > MyPoint.java      - Demonstratin of OOP
 
 > TestMyPoint.java  - Testing MyPoint class
@@ -37,3 +37,9 @@
 > PrattWhitneyJ58.java  - Sub class
 
 > EngineTest.java       - Class to test the inheritance
+-------------------------------------------------------------------------------------------------------------------------
+### Exception Handling:-
+> exceptExample.java    - demo of ArrayIndexOutOfBoundsException and ArithmeticException.
+-------------------------------------------------------------------------------------------------------------------------
+### String based programs:-
+> remVowels.java        - removal of vowels from a string.
