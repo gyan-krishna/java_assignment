@@ -1,5 +1,5 @@
 ![java logo](images/java-logo.png)
-# Java assignment programs for uni 
+# Java assignment programs for university
 
 ## Program Descreptions:-
 
