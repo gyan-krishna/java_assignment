@@ -1,3 +1,4 @@
+![java logo](images/java-logo.png)
 # Java assignment programs for uni 
 
 ## Program Descreptions:-
