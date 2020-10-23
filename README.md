@@ -10,6 +10,10 @@
 -------------------------------------------------------------------------------------------------------------------------
 ### Object Oriented Programs:-
 > MyPoint.java      - Demonstratin of OOP
+
+> TestMyPoint.java  - Testing MyPoint class
+
+> Time.java         - Implementation of custom Data types with class
 -------------------------------------------------------------------------------------------------------------------------
 ### Inheritance example 1:-
 > Person.java       - demo of inheritance (super class)
