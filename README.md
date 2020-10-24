@@ -1,7 +1,7 @@
 ![java logo](images/java-logo.png)
 # Java assignment programs for University
 
-## All Programs are complied and tested in java 8 update 251
+### All Programs are complied and tested in java 8 update 251
 
 -------------------------------------------------------------------------------------------------------------------------
 ### Instructions to run the programs:-
