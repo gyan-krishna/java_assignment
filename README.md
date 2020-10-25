@@ -24,30 +24,27 @@ run these commands in git bash (in bold)
 6. **ConsLength.java**   - length of the longest consecutive integers sequence
 -------------------------------------------------------------------------------------------------------------------------
 ### OOP Example:-
-1. **MyPoint.java**      - Demonstratin of OOP
-2. **TestMyPoint.java**  - Testing MyPoint class
-3. **Time.java**         - Implementation of custom Data types with class
-4. **Box.java**          - Demonstration of Constructions
-5. **Complex.java**      - Operation on complex numbers
+1. **MyPoint.java**            - Demonstratin of OOP
+2. **TestMyPoint.java**        - Testing MyPoint class
+3. **Time.java**               - Implementation of custom Data types with class
+4. **Box.java**                - Demonstration of Constructions
+5. **Complex.java**            - Operation on complex numbers
+6. **Employee.java**           - Example showing overloaded constructors
+7. **Student.java**            - Example showing use of multiple objects
+8. **Inheritance Example 1**   - 
+9. **Inheritance Example 2**   - 
+10. **Inheritance Example 3**  - 
+11. **Abstraction Example 1**  - 
 -------------------------------------------------------------------------------------------------------------------------
-### Inheritance example 1:-
-1. **Person.java**       - demo of inheritance (super class)
-2. **Student.java**      - demo of inheritance (sub class)
-3. **staff.java**        - demo in inheritance (sub class)
-4. **testPerson.java**   - demo of inheritance (test class)
--------------------------------------------------------------------------------------------------------------------------
-### Inheritance example 2:-
-1. **Square.java**       - Example Sub class
-2. **Cylinder.java**     - Example super class
-3. **TestCylinder.java** - Class to test the Inheritance
--------------------------------------------------------------------------------------------------------------------------
-### Inheritance example 3:-
-1. **Engine.java**           - Super Class
-2. **PrattWhitneyJ58.java**  - Sub class
-3. **EngineTest.java**       - Class to test the inheritance
--------------------------------------------------------------------------------------------------------------------------
+
 ### Exception Handling:-
 1. **exceptExample.java**    - demo of ArrayIndexOutOfBoundsException and ArithmeticException.
+2. **CustomException.java**  - demo of user defined exception in java
 -------------------------------------------------------------------------------------------------------------------------
 ### String based programs:-
 1. **remVowels.java**        - removal of vowels from a string.
+2. **CompareString.java**    - Comparing two strings lexographically
+3. **Concatenate.java**      - Concatination of two strings
+4. **CountWords.java**       - Counting the number of words in a string
+5. **Permutate.java**        - Permutating a string with repetation
+6. **RegionCompare.java**    - Comparing regions of two strings
