@@ -1,5 +1,16 @@
 ![java logo](images/java-logo.png)
-# Java assignment programs for university
+# Java assignment programs for University
+
+### All Programs are complied and tested in java 8 update 251
+
+-------------------------------------------------------------------------------------------------------------------------
+### Instructions to run the programs:-
+run these commands in git bash (in bold)
+  1. **git clone https://github.com/gyan-krishna/java_assignment.git** - cloning this repository
+  2. **cd java_assignment** - moving to the repository folder
+  3. move to desired folder using cd command
+  4. **javac <filename.java>**  - compile the program
+  5. **java <file name>**       - run the program
 
 ## Program Descreptions:-
 
